@@ -1,3 +1,6 @@
+# This repository is archived on April 26th, 2026
+The upstream project has deprecated. See their [announcement](https://github.com/dotnet/interactive/issues/4163)
+
 # .NET Notebook
 
 A Jupyter notebook that also support .NET kernels including C#, F# and Power Shell.
